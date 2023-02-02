@@ -1,2 +1,2 @@
-# TSEC_Hacks_39
+# PrepHive
 Interview Training Application made using Deep Learning
